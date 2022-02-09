@@ -1,1 +1,1 @@
-"# DC_Theme" 
+"It's my discord theme, nothing more"
